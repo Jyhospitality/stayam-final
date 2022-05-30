@@ -10028,12 +10028,12 @@ html.tablet .ui-to-top {
     cursor: pointer;
 }
 
-.rd-navbar-static .rd-nav-item>.rd-navbar-submenu-toggle::before {
+/* .rd-navbar-static .rd-nav-item>.rd-navbar-submenu-toggle::before {
     position: relative;
     display: inline-block;
     transition: .22s;
     content: '\f236';
-}
+} */
 
 .rd-navbar-static .rd-nav-item>.rd-navbar-submenu-toggle:hover {
     color: #c19b76;
@@ -10146,7 +10146,7 @@ html.tablet .ui-to-top {
     transition: all .2s ease-in-out;
 }
 
-.rd-navbar-static .rd-navbar-dropdown li>a::before,
+/* .rd-navbar-static .rd-navbar-dropdown li>a::before,
 .rd-navbar-static .rd-megamenu-list li>a::before {
     position: relative;
     top: -1px;
@@ -10159,7 +10159,7 @@ html.tablet .ui-to-top {
     color: #fff;
     opacity: 0;
     visibility: hidden;
-}
+} */
 
 .rd-navbar-static .rd-navbar-dropdown li.focus>a,
 .rd-navbar-static .rd-navbar-dropdown li.opened>a,
