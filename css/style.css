@@ -18666,7 +18666,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 padding-top: 40px;
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-grid-column-gap: 15px;
+grid-column-gap: 50px;
 grid-row-gap: 30px;
 }
 
@@ -18679,7 +18679,7 @@ height: 150px;
 transition: .3s ease-in!important;
 border-radius: 12px;
 z-index: 111;
-background: #f5f5f5;
+/* background: #f5f5f5; */
 }
 
 .course-grid .img-container{
